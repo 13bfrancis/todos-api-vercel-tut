@@ -1,0 +1,15 @@
+{
+  "name": "todos-api-vercel-tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "typescript": "^4.9.4",
+    "vercel": "^28.12.8"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.8.14",
+    "uuid": "^9.0.0"
+  }
+}
